@@ -6,7 +6,9 @@
 
 ## As a member of a DevOps team, We will implement a tooling website solution which makes access to DevOps tools within the corporate infrastructure easily accessible.
 
-## Step 2 — Prepare the NFS Server
+![IMAGES](image.png)
+
+## Step 1 — Prepare the NFS Server
 * We need to create a single partition on each of the 3 disks we added to our NFS Server using the command.
 
 ```
