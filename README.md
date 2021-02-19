@@ -252,11 +252,11 @@ $ sudo mount -t nfs ip-address:/mnt/logs /var/log/httpd
 ```
 
 
-![LOGIN PAGE1](LOGIN.JPG)
+![LOGIN PAGE1](login.jpg)
 
-![LOGIN PAGE2](LOGGEDIN.JPG)
+![LOGIN PAGE2](loggedin.jpg)
 
-![LOGIN PAGE3](INDEX.JPG)
+![LOGIN PAGE3](index.jpg)
 
 
 # NOTE
